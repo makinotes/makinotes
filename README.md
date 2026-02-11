@@ -2,7 +2,7 @@
 
 Data PM by day, builder by night.
 
-写两个公众号：**马奇诺**（AI / Data / PKM）和 **杰尼马**（美股 / 期权）。喜欢用 AI 造工具解决自己的问题，然后把过程写下来。
+写公众号**马奇诺**（AI / Data / PKM）。喜欢用 AI 造工具解决自己的问题，然后把过程写下来。
 
 ## Projects
 
@@ -19,8 +19,8 @@ Data PM by day, builder by night.
 ## Contact
 
 - Email: chenyyhit@gmail.com
-- 公众号：马奇诺 ｜ 杰尼马
+- 公众号：马奇诺
 
 ---
 
-*Building tools and sharing insights at the intersection of AI, data, and investment.*
+*Building tools and sharing insights at the intersection of AI and data.*
