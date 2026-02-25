@@ -1,26 +1,23 @@
 # Hi, I'm makino
 
-Data PM by day, builder by night.
+Data PM by day, building AI-powered tools by night.
 
-写公众号**马奇诺**（AI / Data / PKM）。喜欢用 AI 造工具解决自己的问题，然后把过程写下来。
+## What I'm Building
 
-## Projects
+**[AI Daily Harvest](https://github.com/makinotes/ai-daily-harvest)** — Daily learning feed for AI agents. 40+ sources, scored and structured into JSON.
 
-**[panic-index](https://github.com/makinotes/panic-index)** — 美股恐慌指数，基于期权数据的量化分析工具。Python + Next.js。
+**[onepage-system](https://github.com/makinotes/onepage-system)** — One Page System, a personal information management starter kit built on Obsidian.
 
-**[claude-skills](https://github.com/makinotes/claude-skills)** — Claude Code 自定义 Skills 集合：写作助手、笔记自动化、数据处理。
+## Writing
 
-**[onepage-system](https://github.com/makinotes/onepage-system)** — One Page System，基于 Obsidian 的个人信息管理方案。每天只看一页纸就够了。
+**马奇诺公众号** — Writing about AI, Data, and PKM (Chinese)
 
-## Stack
+## Tech Stack
 
 `Python` `Next.js` `Obsidian` `Claude Code`
 
-## Contact
+## About
+
+Building tools at the intersection of AI, data, and personal knowledge management. Currently focused on AI agent infrastructure and quantitative analysis systems.
 
 - Email: chenyyhit@gmail.com
-- 公众号：马奇诺
-
----
-
-*Building tools and sharing insights at the intersection of AI and data.*
