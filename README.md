@@ -21,3 +21,4 @@ Data PM by day, building AI-powered tools by night.
 Building tools at the intersection of AI, data, and personal knowledge management. Currently focused on AI agent infrastructure and quantitative analysis systems.
 
 - Email: chenyyhit@gmail.com
+
