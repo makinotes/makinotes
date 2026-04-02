@@ -19,6 +19,8 @@ else:
 
 **Data Slides** — 把结构化数据变成投研级 HTML 数据卡片。ECharts 图表 + 静态卡片，Playwright 截图，嵌入文章或独立分享。→ [GitHub](https://github.com/makinotes/makino-data-slides)
 
+**Article to Slides** — 长文章转可分享的 HTML 幻灯片。提炼要点、选风格、生成带导航的单文件 deck。视觉基础来自 [@anthropics/zara-frontend-slides](https://github.com/anthropics/zara-frontend-slides)。→ [GitHub](https://github.com/makinotes/makino-article-to-slides)
+
 **One Page System** — Obsidian 知识管理 starter kit。因为每次从零搭笔记系统太痛苦了，干脆开源一个。
 
 **Personal AI Infra** — 给自己搭了一套数仓式的个人 AI 系统：定时任务自动跑简报、外挂大脑自动学习、Skills 系统编排所有工作流。白天给公司搭数据基建，晚上给自己搭。
