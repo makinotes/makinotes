@@ -13,7 +13,7 @@
 
 ## Makino · AI 与内容工具
 
-**makino-distilled** — 每天从 130+ 信源抓取、评分、结构化，输出 AI 日报。四个视角：关注中、值得学、值得读、值得做。→ [distilled.makinote.cn](https://distilled.makinote.cn) · [GitHub](https://github.com/makinotes/makino-distilled)
+**makino-distilled** — 每天从 130+ 信源抓取、评分、结构化，输出 AI 日报。四个视角：关注中、值得学、值得读、值得做。→ [ai.makinote.cn](https://ai.makinote.cn) · [GitHub](https://github.com/makinotes/makino-distilled)
 
 **makino-data-slides** — 把结构化数据变成投研级 HTML 数据卡片。ECharts 图表 + 静态卡片，Playwright 截图，嵌入文章或独立分享。→ [GitHub](https://github.com/makinotes/makino-data-slides)
 
